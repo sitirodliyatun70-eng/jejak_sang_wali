@@ -1,0 +1,92 @@
+{
+  "ebook": [
+    {
+      "id": 1,
+      "nama": "Sunan Gresik",
+      "wilayah": "Gresik, Jawa Timur",
+      "periode": "Abad ke-14 M",
+      "ringkasan": "Wali tertua yang menyebarkan Islam lewat perdagangan & pertanian.",
+      "konten": "Syekh Maulana Malik Ibrahim atau Sunan Gresik merangkul masyarakat bawah dengan mengajarkan teknik bercocok tanam dan mendirikan pesantren."
+    },
+    {
+      "id": 2,
+      "nama": "Sunan Ampel",
+      "wilayah": "Surabaya, Jawa Timur",
+      "periode": "Abad ke-15 M",
+      "ringkasan": "Pendiri Pesantren Ampel Denta dan pencetus ajaran 'Moh Limo'.",
+      "konten": "Sunan Ampel terkenal dengan ajaran Moh Limo (tidak main judi, minum alkohol, mencuri, mengisap madat, dan berzina)."
+    },
+    {
+      "id": 3,
+      "nama": "Sunan Bonang",
+      "wilayah": "Tuban, Jawa Timur",
+      "periode": "Abad ke-15 M",
+      "ringkasan": "Pencipta tembang Suluk dan penyebar Islam via gamelan.",
+      "konten": "Sunan Bonang menggubah tembang Tombo Ati yang legendaris serta memadukan unsur budaya Jawa dengan nilai-nilai tauhid."
+    },
+    {
+      "id": 4,
+      "nama": "Sunan Giri",
+      "wilayah": "Gresik, Jawa Timur",
+      "periode": "Abad ke-15 M",
+      "ringkasan": "Pendiri Kerajaan Giri Kedaton dan pencipta permainan anak tradisional.",
+      "konten": "Raden Paku atau Sunan Giri menyebarkan Islam melalui karya seni dan permainan anak-anak seperti Jelungan dan Cublak-Cublak Suweng."
+    },
+    {
+      "id": 5,
+      "nama": "Sunan Drajat",
+      "wilayah": "Lamongan, Jawa Timur",
+      "periode": "Abad ke-15 M",
+      "ringkasan": "Wali yang terkenal dengan jiwa sosial tingginya membantu anak yatim dan fakir miskin.",
+      "konten": "Raden Qasim atau Sunan Drajat menekankan keperdulian sosial dalam dakwahnya, mengajarkan pituduh babagan tata krama dan tembang Pangkur."
+    },
+    {
+      "id": 6,
+      "nama": "Sunan Kalijaga",
+      "wilayah": "Demak, Jawa Tengah",
+      "periode": "Abad ke-15 M - ke-16 M",
+      "ringkasan": "Menggunakan media wayang kulit dan tembang Lir-Ilir untuk berdakwah.",
+      "konten": "Raden Sahid atau Sunan Kalijaga memasukkan nilai-nilai keislaman ke dalam seni budaya Jawa seperti pertunjukan wayang kulit dan seni ukir."
+    },
+    {
+      "id": 7,
+      "nama": "Sunan Kudus",
+      "wilayah": "Kudus, Jawa Tengah",
+      "periode": "Abad ke-16 M",
+      "ringkasan": "Pencetus toleransi beragama yang menghormati umat Hindu dengan tidak menyembelih sapi.",
+      "konten": "Ja'far Shadiq atau Sunan Kudus mendirikan Masjid Menara Kudus dengan arsitektur perpaduan budaya Hindu-Islam yang sangat khas."
+    },
+    {
+      "id": 8,
+      "nama": "Sunan Muria",
+      "wilayah": "Kudus (Gunung Muria), Jawa Tengah",
+      "periode": "Abad ke-16 M",
+      "ringkasan": "Berdakwah di daerah terpencil dan menciptakan tembang Sinom serta Kinanthi.",
+      "konten": "Raden Umar Said atau Sunan Muria lebih suka berdakwah di daerah pegunungan dan pesisir terpencil serta merangkul rakyat jelata."
+    },
+    {
+      "id": 9,
+      "nama": "Sunan Gunung Jati",
+      "wilayah": "Cirebon, Jawa Barat",
+      "periode": "Abad ke-16 M",
+      "ringkasan": "Satu-satunya Wali Songo yang juga bertindak sebagai kepala pemerintahan/Sultan Cirebon.",
+      "konten": "Syarif Hidayatullah atau Sunan Gunung Jati mendirikan Kesultanan Cirebon dan Banten serta memperluas ajaran Islam di tanah Sunda."
+    }
+  ],
+  "quiz": [
+    {
+      "level": 1,
+      "soal": "Siapakah nama asli dari Sunan Gresik?",
+      "opsi": ["Syekh Maulana Malik Ibrahim", "Raden Rahmat", "Raden Makhdum", "Raden Paku"],
+      "jawaban": 0,
+      "tipe": "PG"
+    },
+    {
+      "level": 1,
+      "soal": "Tahun berapakah Sunan Gresik wafat berdasarkan catatan sejarah?",
+      "opsi": ["1419 M", "1500 M", "1350 M", "1550 M"],
+      "jawaban": 0,
+      "tipe": "GarisWaktu"
+    }
+  ]
+}
